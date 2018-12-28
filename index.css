@@ -1,0 +1,31 @@
+#header{
+background: red;
+width: 20%;
+
+}
+#slider{
+
+    background: green;
+}
+
+#service{
+background: blue;
+
+}
+
+#footer{
+
+background: greenyellow;
+
+}
+.test{
+background: black;
+
+}
+div{
+background: yellow;
+
+}
+.span{
+    background: violet;
+}
